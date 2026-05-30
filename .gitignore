@@ -1,0 +1,57 @@
+# STM32 + CubeMX + CMake ignores
+
+# Build directories
+/build/
+/CMakeFiles/
+/CMakeCache.txt
+/cmake_install.cmake
+/Makefile
+/Makefile.cmake
+/compile_commands.json
+/InstallScripts.json
+/TargetDirectories.txt
+/progress.marks
+
+# Object and binary files
+*.o
+*.obj
+*.elf
+*.bin
+*.hex
+*.map
+*.lst
+*.axf
+
+# Tooling
+/.vs/
+.vscode/
+.idea/
+*.swp
+*.tmp
+*.log
+
+# Generated project files
+*.ewp
+*.eww
+*.ewd
+*.icc
+*.icf
+*.icd
+*.icb
+*.suo
+*.user
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# OneDrive temp
+~$*
+
+# Coverage and misc
+coverage/
+*.gcda
+*.gcno
+
+# Keep gitignore tracked
+!.gitignore
