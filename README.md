@@ -6,7 +6,7 @@ This repository implements a self-balancing inverted pendulum mounted on a cart 
 
 An inverted pendulum on a cart is a classic control problem: a pendulum that is unstable when upright is balanced by moving the cart beneath its pivot to keep the center of mass over the wheelbase. The diagram below illustrates the basic setup and concept.
 
-![Inverted pendulum on a cart](docs/images/5.svg)
+![Inverted pendulum on a cart](docs/images/5.png)
 
 ## Features
 
@@ -63,10 +63,10 @@ The current implementation reads the MPU6050, estimates the angle, and attempts 
 
 Below are placeholder images illustrating the build, wiring, and runtime behavior. Replace these with your real photos by uploading them to `docs/images/` with the same filenames.
 
-![Photo 1](docs/images/1.svg)
-![Photo 2](docs/images/2.svg)
-![Photo 3](docs/images/3.svg)
-![Photo 4](docs/images/4.svg)
+![Photo 1](docs/images/1.png)
+![Photo 2](docs/images/2.png)
+![Photo 3](docs/images/3.png)
+![Photo 4](docs/images/4.png)
 
 ## Build & Flash (Windows)
 
