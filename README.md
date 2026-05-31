@@ -61,8 +61,6 @@ The current implementation reads the MPU6050, estimates the angle, and attempts 
 
 ## Media
 
-Below are placeholder images illustrating the build, wiring, and runtime behavior. Replace these with your real photos by uploading them to `docs/images/` with the same filenames.
-
 ![Photo 1](docs/images/1.png)
 ![Photo 2](docs/images/2.png)
 ![Photo 3](docs/images/3.png)
