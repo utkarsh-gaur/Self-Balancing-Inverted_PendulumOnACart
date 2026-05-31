@@ -66,7 +66,7 @@ Below are placeholder images illustrating the build, wiring, and runtime behavio
 ![Photo 1](docs/images/1.svg)
 ![Photo 2](docs/images/2.svg)
 ![Photo 3](docs/images/3.svg)
-![Photo 4](docs/images/4.png)
+![Photo 4](docs/images/4.svg)
 
 ## Build & Flash (Windows)
 
